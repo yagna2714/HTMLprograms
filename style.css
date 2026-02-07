@@ -1,0 +1,70 @@
+h1{
+    text-align:center;
+    font weight:bold;
+}
+.time{
+    background-color:azure;
+}
+
+
+#sub1{
+   color:blueviolet;
+  font-size: 18px;
+  
+}
+.sub2{
+    color:blue;
+    font-size: 18px;
+  
+}
+
+#sub3{
+    color:green;
+    font-size: 18px;
+  
+}
+
+.sub4{
+    color:lawngreen;
+    font-size: 18px;
+ 
+}
+
+#sub5{
+  color:crimson;
+   font-size: 18px;
+  
+
+}
+.sub6{
+    color:chocolate;
+     font-size: 18px;
+  
+
+}
+#sub7{
+    color:magenta;
+    font-size: 18px;
+
+}
+#lunch{
+    writing-mode:vertical-rl;
+    text-orientation:upright;
+    font-weight:bold;
+    letter-spacing:2px;
+}
+.day{
+  
+    font-weight:bold;
+    color:black;
+    font-style:italic;
+    background-color:powderblue;
+   
+}
+#day{
+    color:black;
+    font-weight:bold;
+    font-style:italic;
+
+
+}
