@@ -1,0 +1,53 @@
+h1{
+    font-weight:bold;
+    text-align:center;
+}
+.day{
+    background-color: beige;
+    font-style:italic;
+    font-weight:bold;
+    font-size:18px;
+
+}
+.DSA{
+    color:red;
+    font-size:18px;
+    text-align:center;
+}
+.FWD{
+    color:blue;
+    font-size:18px;
+    text-align:center;
+}
+#MAI{
+    color:chocolate;
+    font-size:18px;
+    text-align:center;
+}
+#Exam{
+    color:brown;
+    font-size:18px;
+    text-align:center;
+}
+#lunch{
+    writing-mode:vertical-lr;
+    text-orientation:upright;
+    text-align:center;
+    color:fuchsia;
+
+}
+#Project{
+    color:orange;
+    font-size:18px;
+    text-align:center;
+}
+.Hobby{
+    color:darkgreen;
+font-size:18px;
+text-align:center;
+}
+.GLB{
+    color:indianred;
+    font-size:18px;
+    text-align:center;
+}
